@@ -29,7 +29,7 @@ https://github.com/Maliha-Tasnim/Vaccination-Programme-Maintenance-System/assets
 
 2. Clone the Repository: 
 
-            git clone https://github.com/Maliha-Tasnim/vaccination-programme-maintenance-system.git
+            git clone https://github.com/Maliha-Tasnim/vaccination-programme-maintenance-system
             cd vaccination-programme-maintenance-system
 
 3. Set Up XAMPP/WAMP (if not already installed):
